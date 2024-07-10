@@ -23,7 +23,7 @@ Votre formation me semble excellente, mais le domaine du machine learning, et pl
 
 
 Karim vous envoie le mail suivant pour cadrer votre démarche.
-
+```
 De : Karim
 Envoyé : Hier 11:12
 À : Vous
@@ -54,7 +54,7 @@ Voici un modèle en pièce jointe à remplir pour ce plan prévisionnel.
 Notez bien que vous pouvez réutiliser du code rédigé par quelqu’un d’autre, du code d’un tutoriel par exemple, à condition de le préciser explicitement dans le plan prévisionnel. Dans ce cas, l’application devra être originale, c’est-à-dire qu’elle doit reposer sur un dataset différent de celui du tutoriel d’où provient le code.
 
 Karim
-
+```
 Pièce jointe : 
 
 Modèle de plan prévisionnel
@@ -63,7 +63,7 @@ Une fois le plan prévisionnel réalisé, vous le soumettez à votre mentor pour
 
 
 Karim vous envoie le mail suivant pour cadrer la suite de votre démarche.
-
+```
 De : Karim
 Envoyé : Aujourd’hui 14:15
 À : Vous
@@ -87,7 +87,7 @@ les résultats comparés entre le nouvel algorithme et la baseline.
 Merci !
 
 Karim
-
+```
 Pièce jointe : 
 
 Modèle de note méthodologique
@@ -142,6 +142,7 @@ Votre présentation devrait durer 20 minutes (+/- 5 minutes). Puisque le respect
  
 
 Référentiel d'évaluation
+```
 Réaliser une veille sur les outils et tendances en data science et IA afin de mettre à jour son expertise et de s’assurer que les méthodes utilisées mobilisent bien les techniques en vigueur. 
 CE1 Vous avez consulté des sources reconnues d'informations, produites récemment (blogs reconnus, articles de recherche de journaux et conférences reconnues dans le domaine). 
 
@@ -151,12 +152,12 @@ CE3 Vous avez bien articulé les différentes sources entre elles. Dans le cadre
 
 vous avez bien pris comme référence l'article de recherche sur le nouveau concept (sur arxiv par exemple), et a présenté comment les autres articles ont mis en oeuvre ou adapté le concept.
 CE4 Vous avez mis en place une preuve de concept pour tester le nouvel outil / le nouveau modèle, la nouvelle démarche, comparée à une approche classique. 
-
+```
  
 
 Rédiger une note méthodologique contenant notamment le choix des algorithmes testés, les métriques utilisées et l’interprétabilité du modèle proposé, afin de communiquer sa démarche de modélisation.
 Dans le cadre de ce projet, cette note concerne la démarche de modélisation du nouveau modèle suite au travail de veille.
-
+```
 CE1 Vous avez présenté la démarche de modélisation de manière synthétique dans une note. 
 
 CE2 Vous avez explicité la métrique d'évaluation retenue et sa démarche d'optimisation. 
@@ -165,7 +166,7 @@ CE3 Vous avez explicité l'interprétabilité globale et locale du modèle.
 
 CE4 Vous avez décrit les limites et les améliorations envisageables pour gagner en performance et en interprétabilité de l'approche de modélisation. 
 
- 
+ ```
 
 Réaliser la présentation orale d’une démarche de modélisation à un client interne/externe afin de partager les résultats et faciliter la prise de décision de l'interlocuteur. 
 Dans le cadre de ce projet, cette présentation orale (soutenance) concerne l’ensemble du projet, la démarche de modélisation du nouveau modèle suite au travail de veille et l’élaboration du dashboard.
@@ -179,6 +180,7 @@ CE3 Vous avez présenté une démarche de modélisation et une évaluation compl
  
 
 Réaliser un tableau de bord afin de présenter son travail de modélisation à un public non technique et de manière adaptée à des personnes en situation de handicap en appliquant certains critères d'accessibilité du WCAG. 
+```
 CE1 Vous avez décrit et conçu un parcours utilisateur simple permettant de répondre aux besoins des utilisateurs (les différentes actions et clics sur les différents graphiques permettant de répondre à une question que se pose l'utilisateur). 
 
 CE2 Vous avez développé au moins deux graphiques interactifs permettant aux utilisateurs d'explorer les données. 
@@ -188,7 +190,7 @@ CE3 Vous avez réalisé des graphiques lisibles (taille de texte suffisante, dé
 CE4 Vous avez réalisé des graphiques qui permettent de répondre à la problématique métier. 
 
 CE5 Vous avez pris en compte le besoin des personnes en situation de handicap dans la réalisation des graphiques : le candidat a pris en compte au minimum les critères d'accessibilité du WCAG suivants : 
-
+```
 Critère de succès 1.1.1 Contenu non textuel 
 Critère de succès 1.4.1 Utilisation de la couleur 
 Critère de succès 1.4.3 Contraste (minimum) 
@@ -197,7 +199,9 @@ Critère de succès 2.4.2 Titre de page
 CE6 Vous avez déployé le dashboard sur le web afin qu'il soit accessible pour d'autres utilisateurs sur leurs postes de travail.
 
 Compétences évaluées
+```
 Réaliser la présentation orale d’une démarche de modélisation à un client interne/externe
 Réaliser une veille sur les outils et tendances en data science et IA
 Réaliser un tableau de bord afin de présenter son travail de modélisation à un public
 Rédiger une note méthodologique afin de communiquer sa démarche de modélisation
+```
