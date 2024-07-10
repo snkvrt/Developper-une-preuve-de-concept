@@ -170,13 +170,13 @@ CE4 Vous avez décrit les limites et les améliorations envisageables pour gagne
 
 Réaliser la présentation orale d’une démarche de modélisation à un client interne/externe afin de partager les résultats et faciliter la prise de décision de l'interlocuteur. 
 Dans le cadre de ce projet, cette présentation orale (soutenance) concerne l’ensemble du projet, la démarche de modélisation du nouveau modèle suite au travail de veille et l’élaboration du dashboard.
-
+```
 CE1 Vous avez expliqué de manière simple (compréhensible par un public non technique) la méthode d'évaluation de la performance du modèle de machine learning, la façon d'interpréter les résultats du modèle et la façon d'interpréter l'importance des variables du modèle. 
 
 CE2 Vous avez su répondre de manière simple (compréhensible par un public non technique) à au moins une question portant sur sa démarche de modélisation.
 
 CE3 Vous avez présenté une démarche de modélisation et une évaluation complète des modèles, en particulier la comparaison de plusieurs modèles.
-
+```
  
 
 Réaliser un tableau de bord afin de présenter son travail de modélisation à un public non technique et de manière adaptée à des personnes en situation de handicap en appliquant certains critères d'accessibilité du WCAG. 
