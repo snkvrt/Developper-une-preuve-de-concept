@@ -1,4 +1,4 @@
-# Openclassroom-Projet-10
+# Openclassroom Projet 10
 
 Dans ce projet, vous réaliserez une veille pour trouver une méthode récente pour améliorer la performance d’un modèle.
 
